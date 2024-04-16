@@ -1,7 +1,6 @@
 # LMS 
 
-Possibili funzionalità:
-- Correzione verifiche
+Funzionalità:
 - Calendario
-- Voice commands
-- Learning Hub con registrazioni (condiviso)
+- Caricamento circolari
+- Ricerca circolari

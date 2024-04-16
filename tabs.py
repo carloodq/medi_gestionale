@@ -82,8 +82,9 @@ def search_docs():
         for filename in os.listdir('pdfs'):
             if filename.lower().endswith(".pdf"):  # Check for lowercase and uppercase extensions
                 pdf_filenames.append(filename)
-                # Display title
-                st.title("Risultati")
+                
+        # Display title
+        st.title("Risultati")
 
         # Loop to display three results
         for i in range(len(pdf_filenames)):
